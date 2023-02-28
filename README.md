@@ -1,4 +1,3 @@
-# Enlaces de interés
+# Parcial práctico 1 - Sección 1
 
-* [Jenkins](http://157.253.238.75:8080/jenkins-isis2603/)
-* [SonarQube](http://157.253.238.75:8080/sonar-isis2603/)
+## Enunciado del parcial
