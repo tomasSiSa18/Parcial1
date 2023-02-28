@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>co.edu.uniandes.dse</groupId>
-	<artifactId>ISIS2603_202310_S1_Parcial1</artifactId>
+	<artifactId>ISIS2603_202310_Parcial1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ISIS2603_202310_S1_Parcial1</name>
+	<name>ISIS2603_202310_Parcial1</name>
 	<description>Course Project for ISIS2603</description>
 	<properties>
 		<java.version>11</java.version>
