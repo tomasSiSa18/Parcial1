@@ -23,7 +23,7 @@ public class TallerMarcaService {
     private MarcaRepository marcaRepository;
 
     @Transactional
-    private TallerEntity addMarcaTaller(Long idMarca, Long idTaller) throws EntityNotFoundException{
+    public TallerEntity addMarcaTaller(Long idMarca, Long idTaller) throws EntityNotFoundException{
 
         Optional<MarcaEntity> marca = marcaRepository.findById(idMarca);
         Optional<TallerEntity> taller = tallerRepository.findById(idTaller);
