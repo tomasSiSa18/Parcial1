@@ -6,6 +6,6 @@ import org.springframework.stereotype.Repository;
 import co.edu.uniandes.dse.parcial1.entities.MarcaEntity;
 
 @Repository
-public interface MarcasRepository extends JpaRepository<MarcaEntity, Long> {
+public interface MarcaRepository extends JpaRepository<MarcaEntity, Long> {
     
 }
